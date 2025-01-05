@@ -1,5 +1,11 @@
 # CSC 394: Airbnb example
 
+# Team Members
+
+Team Member 1
+Team Member 2
+Team Member 3
+
 # Project Pitch
 Traditional hotels can be expensive and lack a personal touch, leaving travelers with limited and impersonal options. Airbnb solves this by allowing travelers to find and book unique rooms or homes directly from homeowners, offering a more affordable and personalized experience. The platform benefits travelers by providing more choices at better prices, while homeowners can earn extra income by renting out their spaces, creating a win-win for both sides.
 
