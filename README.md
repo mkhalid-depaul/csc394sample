@@ -1,6 +1,6 @@
 # CSC 394: Airbnb example
 
-# Team Members
+# Team Members All
 
 Team Member 1
 Team Member 2
